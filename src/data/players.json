@@ -3,12 +3,12 @@
     {
       "id": 0,
       "name": "Jerry",
-      "points": 6
+      "points": 5
     },
     {
       "id": 1,
       "name": "Bob",
-      "points": 6
+      "points": 8
     }
   ]
 }
